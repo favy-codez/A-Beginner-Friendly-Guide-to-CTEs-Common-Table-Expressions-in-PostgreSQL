@@ -2,7 +2,7 @@
 
 > **Please make sure you attempt the questions on your own before looking at these solutions.**  
 > To view the full list of questions, check the documentation here:  
-> 👉 [View Documentation](https://example.com/documentation)
+> 👉 [View Documentation](https://medium.com/@ezeliorafavour/a-beginner-friendly-guide-to-ctes-common-table-expressions-in-postgresql-bf5f31416b7a)
 
 ---
 
